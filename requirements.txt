@@ -1,0 +1,2 @@
+aiogram==2.13
+transitions==0.8.8
